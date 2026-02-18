@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N/9b1RJIqwc=",
+  "success": true,
+  "projectFilePath": "/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/HW17/HW17/HW17.csproj",
+  "expectedPackageFiles": [
+    "/Users/luunguyenthuan/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/luunguyenthuan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/luunguyenthuan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
