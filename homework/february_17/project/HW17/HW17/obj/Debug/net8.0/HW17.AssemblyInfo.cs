@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW17")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+345c30ccd0f69281cbc8d61bf7a5e63fd916bf02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e6cc5b5213a60ecb0a05f63ed8b3dd3c0977bff")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW17")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW17")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
