@@ -1,0 +1,14 @@
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/bin/Debug/net8.0/Array
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/bin/Debug/net8.0/Array.deps.json
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/bin/Debug/net8.0/Array.runtimeconfig.json
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/bin/Debug/net8.0/Array.dll
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/bin/Debug/net8.0/Array.pdb
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/obj/Debug/net8.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/obj/Debug/net8.0/Array.AssemblyInfoInputs.cache
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/obj/Debug/net8.0/Array.AssemblyInfo.cs
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/obj/Debug/net8.0/Array.csproj.CoreCompileInputs.cache
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/obj/Debug/net8.0/Array.dll
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/obj/Debug/net8.0/refint/Array.dll
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/obj/Debug/net8.0/Array.pdb
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/obj/Debug/net8.0/Array.genruntimeconfig.cache
+/Users/luunguyenthuan/Documents/GitHub/2026-Spring-GAME240-01/homework/march_9/Array/Array/obj/Debug/net8.0/ref/Array.dll
