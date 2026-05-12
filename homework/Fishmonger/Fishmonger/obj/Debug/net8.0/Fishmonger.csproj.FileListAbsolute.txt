@@ -1,0 +1,14 @@
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/bin/Debug/net8.0/Fishmonger
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/bin/Debug/net8.0/Fishmonger.deps.json
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/bin/Debug/net8.0/Fishmonger.runtimeconfig.json
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/bin/Debug/net8.0/Fishmonger.dll
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/bin/Debug/net8.0/Fishmonger.pdb
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/obj/Debug/net8.0/Fishmonger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/obj/Debug/net8.0/Fishmonger.AssemblyInfoInputs.cache
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/obj/Debug/net8.0/Fishmonger.AssemblyInfo.cs
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/obj/Debug/net8.0/Fishmonger.csproj.CoreCompileInputs.cache
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/obj/Debug/net8.0/Fishmonger.dll
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/obj/Debug/net8.0/refint/Fishmonger.dll
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/obj/Debug/net8.0/Fishmonger.pdb
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/obj/Debug/net8.0/Fishmonger.genruntimeconfig.cache
+/Users/luunguyenthuan/Downloads/Game230/Fishmonger/Fishmonger/obj/Debug/net8.0/ref/Fishmonger.dll
