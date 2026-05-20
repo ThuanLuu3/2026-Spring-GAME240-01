@@ -1,0 +1,14 @@
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/bin/Debug/net8.0/FinalProject
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/bin/Debug/net8.0/FinalProject.deps.json
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/bin/Debug/net8.0/FinalProject.runtimeconfig.json
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/bin/Debug/net8.0/FinalProject.dll
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/bin/Debug/net8.0/FinalProject.pdb
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/obj/Debug/net8.0/FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/obj/Debug/net8.0/FinalProject.AssemblyInfoInputs.cache
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/obj/Debug/net8.0/FinalProject.AssemblyInfo.cs
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/obj/Debug/net8.0/FinalProject.csproj.CoreCompileInputs.cache
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/obj/Debug/net8.0/FinalProject.dll
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/obj/Debug/net8.0/refint/FinalProject.dll
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/obj/Debug/net8.0/FinalProject.pdb
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/obj/Debug/net8.0/FinalProject.genruntimeconfig.cache
+/Users/luunguyenthuan/Downloads/Game230/FinalProject/FinalProject/obj/Debug/net8.0/ref/FinalProject.dll
